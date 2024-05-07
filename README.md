@@ -6,7 +6,7 @@
   - numpy
   - torch
   - BertModel, BertTokenizer from transformers
-- Download 'bestvalacc_model3.bin' from the repository and place it under the same dirctory as 'emotion_display.py'
+- Download 'bestvalacc_model3.bin' from the drive link 'https://drive.google.com/file/d/1MRQw6c1sofIdEnVPqSAlS3I2B9Nfn9Ht/view?usp=sharing' and place it under the same dirctory as 'emotion_display.py'
   - This has the saved best Bert model for the testing
 - To Run:
   - python3 emotion_display.py (OR python emotion_display.py)
